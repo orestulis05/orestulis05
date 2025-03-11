@@ -4,4 +4,5 @@ I am currently:
 - Learning Website Frontend Development and Rust in my spare time.
 
 [![roadmap.sh](https://roadmap.sh/card/tall/67c8c15ffe4b7df03b7ac85c?variant=dark)](https://roadmap.sh)
+
 These stats don't want to update. Check out [my roadmap.sh profile](https://roadmap.sh/u/baltiscript).
