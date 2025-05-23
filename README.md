@@ -6,3 +6,4 @@
 - Love making and playing games.
 - Still trying to find my niche in programming.
 - Neovim user btw
+- Linux user btw (not Arch, sorry)
